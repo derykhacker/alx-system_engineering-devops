@@ -1,0 +1,2 @@
+#!/bin/bash
+gep -c -i "root" /etc/passwd
